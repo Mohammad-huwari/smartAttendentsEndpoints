@@ -21,3 +21,5 @@ Entity Framework Core + SQL Server
 
 JWT Authentication
 
+the UI project : https://github.com/Mohammad-huwari/smartAttendanceUi
+
